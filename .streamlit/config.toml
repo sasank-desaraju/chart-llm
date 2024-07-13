@@ -1,0 +1,7 @@
+# Config for this .toml app
+# Main things are to expose a port so I can port forward it to my local machine
+
+
+[server]
+headless = true
+port = 8080
